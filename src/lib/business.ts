@@ -35,7 +35,7 @@ export const business: Business = {
   bookingUrl: "https://skyrunlimo.com/book",
   servicesUrl: "https://skyrunlimo.com/services",
   fleetUrl: "https://skyrunlimo.com/fleet",
-  digitalCardUrl: "https://pixel-perfect-snapshot-2372.lovable.app/",
+  digitalCardUrl: "https://connect.skyrunlimo.com/",
   googleReviewUrl: "",
   instagramUrl: "https://www.instagram.com/skyrun2428/",
   facebookUrl: "https://www.facebook.com/profile.php?id=61596174350461",
